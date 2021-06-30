@@ -1,0 +1,35 @@
+
+Report Title : Twitter Data Anlysis Report
+
+Abstact
+
+The aim of this study is to develop a model and use it in sentiment analysis based on the information gathering from a social media like twitter.
+Through this work, the natural language processing will be demonstrated and how it can help in sentiment analysis. All these techninics can be applied
+to have an overall understanding of the active public on a social media on any situation. In the case of this project the people regards' on Covid-19 are
+analysed. 
+
+Introduction
+
+Today, social media has created new styles of communication for us, which made huge impact on everyday lives of the people. Social media has brought people 
+with common interests together and expanded the horizon of ideas worldwide. However, there has also been an impact of social media on human behavior and society.
+Human behavior changes more when we dabble with technology especially with social media. The daily use of social media by people has increased so much that it is 
+slowly injecting an inflection into our behaviors. Today, social media can change esealy human decision and affect sebtiments on any subject. In addition, Social 
+media provides a quick and easy way to spread news and information online. Many people around the world, use social media as a way to discover news or new stories. 
+During this pendemic of Covid-19, social media where used to alerte people and affect of cours their sentiments. 
+To analyse the sentiments of the public during this pendemic period, a model will be develop to process the natural langage of public on twitter with focus in Africa.
+Thus, different technics or methods will be used to get the sentiment analysis of the public leving in Africa' countries. In the process of this analysis it is very
+important to set up a model framework to higlith the different steps up to the deployment stage of the data analysis.
+
+Methods
+
+Sentiment analysis is contextual mining of text which identifies and extracts subjective information in source material, and helping a company to understand the 
+social sentiment of their brand, product or service while monitoring online conversations. In the case of this study, Twitter was scraping based on the comments 
+on the Covid-19 made by Africans on Twiiter. These data were collected in June 2021 and stored as json file using a web scrapping API.
+The sentiment analysis model used in this study is developed in python by 10 Academy Team and download from https://github.com/10xac/Twitter-Data-Analysis
+
+Results
+Through this work, it can be observed that with the recent advances in Machine learning, the ability of algorithms to analyse text has improved considerably. 
+Creative use of advanced artificial intelligence techniques can be an effective tool for doing in-depth research. We believe it is important to analyse
+public conversation about any situtation tha occur in the wold to predict peopl' reactions.
+
+
